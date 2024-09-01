@@ -1,7 +1,3 @@
-Here's a sample README file for your network packet sniffing code:
-
----
-
 # Network Packet Sniffer
 
 This repository contains a Python script that captures and displays network packets in real time. The script leverages the Scapy library to sniff network traffic, extracting and printing relevant information such as source and destination IP addresses, protocol type, and payload data.
