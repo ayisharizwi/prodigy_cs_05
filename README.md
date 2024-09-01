@@ -38,7 +38,7 @@ pip install scapy
 2. **Run the Script:**
 
    ```bash
-   sudo python packet_sniffer.py
+   sudo python NetworkPacketAnalyzer.py
    ```
 
 3. **Network Interface:**
