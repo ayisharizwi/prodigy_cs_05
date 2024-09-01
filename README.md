@@ -32,7 +32,7 @@ pip install scapy
 
    ```bash
    git clone https://github.com/ayisharizwi/prodigy_cs_05.git
-   cd network-packet-sniffer
+   cd prodigy_cs_05
    ```
 
 2. **Run the Script:**
